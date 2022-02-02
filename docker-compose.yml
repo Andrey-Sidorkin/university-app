@@ -1,0 +1,35 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:13.3
+    restart: unless-stopped
+    env_file: ./.env
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      PGDATA: ${PGDATA}
+    ports:
+      - ${POSTGRES_LOCAL_PORT}:${POSTGRES_DOCKER_PORT}
+  app:
+    depends_on:
+      - postgres
+    image: my_hub/university-app
+    build: .
+    env_file: ./.env
+    ports:
+      - "${SPRING_LOCAL_PORT}:${SPRING_DOCKER_PORT}"
+    environment:
+      SPRING_APPLICATION_JSON: '{
+        spring.datasource.url=jdbc:postgresql://localhost:${POSTGRES_DOCKER_PORT}/${POSTGRES_DB}
+        spring.datasource.username=${POSTGRES_USER}
+        spring.datasource.password=${POSTGRES_PASSWORD}
+        spring.datasource.driver-class-name=org.postgresql.Driver
+        spring.jpa.database=postgresql
+        spring.jpa.database-platform=org.hibernate.dialect.PostgreSQL10Dialect
+        spring.jpa.hibernate.ddl-auto=create-drop
+        spring.sql.init.mode=AlWAYS
+        spring.jpa.defer-datasource-initialization=true
+        spring.sql.init.data-locations=classpath:data.sql
+      }'
