@@ -2,12 +2,13 @@
 
 This app allows to maintain an university structure including faculties, departments, professors, students etc.
 It utilizes such frameworks as Hibernate and Spring and is based on SOLID and REST architectural principles.
+
 We can describe the university structure as shown below:<br> 
  
 ![](images/University.svg)
 <br>
   
-The structure and relations of entities used in this app to reperesent the university structure 
+The structure and relations of entities used in this app to represent the university organization 
 is shown on the following diagram:
 <br>
  
