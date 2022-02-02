@@ -29,7 +29,7 @@ The app can be operated by using the following endpoints:
 ```DELETE: /auditoriums/{id}``` — delete auditorium by id<br>
 
 ```GET: /schedules/{id}``` — find day schedule by id<br>
-```GET: /schedules?id=...&semester=...&day=...``` — find day schedule by group id, semester and week day<br>
+```GET: /schedules?id=...&semester=...&day=...``` — find schedule by group id, semester and weekday<br>
 ```POST: /schedules``` — add new day schedule <br>
 ```PUT: /schedules/{id}``` — update day schedule with specified id<br>
 ```DELETE: /schedules/{id}``` — delete day schedule by id<br>
@@ -70,7 +70,7 @@ The app can be operated by using the following endpoints:
 ```PUT: /studies/{id}``` — update study with specified id<br>
 ```DELETE: /studies/{id}``` — delete study by id<br>
 
-Also using the following endpoint you can get day schedule for specific student 
+Also using the following endpoint you can get the day schedule for the specific student 
 by student card for specified day of week:<br>
 ```GET: /schedules/by-card?card=...&day=...```
 You can see the result on this screenshot:<br>
