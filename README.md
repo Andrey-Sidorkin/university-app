@@ -108,4 +108,3 @@ Initial data is injected automatically on start via SQL script. You can find it 
 
 ```resources/data.sql```
 
-# university-app
