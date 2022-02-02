@@ -9,6 +9,8 @@ We can describe the university structure as shown below:<br>
   
 The structure and relations of entities used in this app to reperesent the university structure 
 is shown on the following diagram:
+<br>
+ 
 ![](images/entities.svg)
 ### How to use
 

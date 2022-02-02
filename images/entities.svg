@@ -1,517 +1,519 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 901.9 763" style="enable-background:new 0 0 901.9 763;" xml:space="preserve">
+	 viewBox="0 0 806 686" style="enable-background:new 0 0 806 686;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;}
+	.st0{fill:none;enable-background:new    ;}
 	.st1{fill:none;stroke:#000000;stroke-linecap:square;stroke-miterlimit:10;}
 	.st2{fill:#E0E0E0;stroke:#000000;stroke-miterlimit:10;}
 	.st3{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
 	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
 	.st5{font-family:'Verdana';}
 	.st6{font-size:14px;}
-	.st7{font-family:'Helvetica-Bold';}
-	.st8{font-size:12px;}
-	.st9{font-family:'Helvetica';}
-	.st10{enable-background:new    ;}
+	.st7{fill:none;}
+	.st8{font-family:'Helvetica-Bold';}
+	.st9{font-size:12px;}
+	.st10{font-family:'Helvetica';}
+	.st11{fill:none;stroke:#000000;stroke-miterlimit:10;enable-background:new    ;}
 </style>
-<path class="st0" d="z"/>
-<path pointer-events="all" class="st1" d="M697.4,540.5"/>
-<path pointer-events="all" class="st1" d="M697.4,566.5"/>
-<path pointer-events="all" class="st1" d="M697.4,576.5"/>
+<path class="st0" d="M-38-30.9"/>
+<path pointer-events="all" class="st1" d="M659.4,509.6"/>
+<path pointer-events="all" class="st1" d="M659.4,535.6"/>
+<path pointer-events="all" class="st1" d="M659.4,545.6"/>
 <g>
-	<path pointer-events="all" class="st2" d="M338.4,420.5v-26h200v26"/>
-	<path pointer-events="all" class="st3" d="M338.4,420.5v94h200v-94"/>
-	<path pointer-events="all" class="st4" d="M338.4,420.5h200"/>
+	<path pointer-events="all" class="st2" d="M300.4,389.6v-26h200v26"/>
+	<path pointer-events="all" class="st3" d="M300.4,389.6v94h200v-94"/>
+	<path pointer-events="all" class="st4" d="M300.4,389.6h200"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 381.8914 411.5)" class="st5 st6">academic_years</text>
+		<text transform="matrix(1 0 0 1 343.8914 380.61)" class="st5 st6">academic_years</text>
 	</g>
-	<rect x="338.4" y="420.5" pointer-events="all" class="st0" width="200" height="30"/>
-	<path pointer-events="all" class="st1" d="M538.4,450.5h-200"/>
+	<rect x="300.4" y="389.6" pointer-events="all" class="st7" width="200" height="30"/>
+	<path pointer-events="all" class="st1" d="M500.4,419.6h-200"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 374.3938 439.5)" class="st7 st8" style="text-decoration: underline;">id (bigint, auto inc.)</text>
+		<text transform="matrix(1 0 0 1 336.3938 408.61)" class="st8 st9" style="text-decoration: underline;">id (bigint, auto inc.)</text>
 	</g>
-	<rect x="338.4" y="420.5" pointer-events="all" class="st0" width="30" height="30"/>
-	<path pointer-events="all" class="st1" d="M368.4,420.5v30"/>
+	<rect x="300.4" y="389.6" pointer-events="all" class="st7" width="30" height="30"/>
+	<path pointer-events="all" class="st1" d="M330.4,389.6v30"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 344.3938 439.5)" class="st9 st8">PK</text>
+		<text transform="matrix(1 0 0 1 306.3938 408.61)" class="st10 st9">PK</text>
 	</g>
-	<rect x="338.4" y="450.5" pointer-events="all" class="st0" width="200" height="26"/>
+	<rect x="300.4" y="419.6" pointer-events="all" class="st7" width="200" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 374.3938 469.5)" class="st9 st8">calendar_year (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 336.3938 438.61)" class="st10 st9">calendar_year (varchar 255)</text>
 	</g>
-	<rect x="338.4" y="450.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M368.4,450.5v26"/>
-	<rect x="338.4" y="476.5" pointer-events="all" class="st0" width="200" height="26"/>
+	<rect x="300.4" y="419.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M330.4,419.6v26"/>
+	<rect x="300.4" y="445.6" pointer-events="all" class="st7" width="200" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 374.3938 495.5)" class="st9 st8">number (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 336.3938 464.61)" class="st10 st9">number (varchar 255)</text>
 	</g>
-	<rect x="338.4" y="476.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M368.4,476.5v26"/>
-	<rect x="338.4" y="502.5" pointer-events="all" class="st0" width="200" height="10"/>
-	<rect x="338.4" y="502.5" pointer-events="all" class="st0" width="30" height="10"/>
-	<path pointer-events="all" class="st1" d="M368.4,502.5v10"/>
+	<rect x="300.4" y="445.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M330.4,445.6v26"/>
+	<rect x="300.4" y="471.6" pointer-events="all" class="st7" width="200" height="10"/>
+	<rect x="300.4" y="471.6" pointer-events="all" class="st7" width="30" height="10"/>
+	<path pointer-events="all" class="st1" d="M330.4,471.6v10"/>
 </g>
-<path pointer-events="all" class="st2" d="M627.4,64.5v-26h190v26"/>
-<path pointer-events="all" class="st1" d="M627.4,120.5"/>
-<path pointer-events="all" class="st1" d="M627.4,146.5"/>
-<path pointer-events="all" class="st1" d="M627.4,172.5"/>
-<path pointer-events="all" class="st1" d="M627.4,198.5"/>
-<path pointer-events="all" class="st1" d="M627.4,208.5"/>
+<path pointer-events="all" class="st2" d="M589.4,33.6v-26h190v26"/>
+<path pointer-events="all" class="st1" d="M589.4,89.6"/>
+<path pointer-events="all" class="st1" d="M589.4,115.6"/>
+<path pointer-events="all" class="st1" d="M589.4,141.6"/>
+<path pointer-events="all" class="st1" d="M589.4,167.6"/>
+<path pointer-events="all" class="st1" d="M589.4,177.6"/>
 <g>
-	<path pointer-events="all" class="st3" d="M627.4,64.5v144h190v-144"/>
-	<path pointer-events="all" class="st4" d="M627.4,64.5h190"/>
+	<path pointer-events="all" class="st3" d="M589.4,33.6v144h190v-144"/>
+	<path pointer-events="all" class="st4" d="M589.4,33.6h190"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 680.6775 55.5)" class="st5 st6">auditoriums</text>
+		<text transform="matrix(1 0 0 1 642.6775 24.61)" class="st5 st6">auditoriums</text>
 	</g>
-	<rect x="627.4" y="64.5" pointer-events="all" class="st0" width="190" height="30"/>
-	<path pointer-events="all" class="st1" d="M817.4,94.5h-190"/>
+	<rect x="589.4" y="33.6" pointer-events="all" class="st7" width="190" height="30"/>
+	<path pointer-events="all" class="st1" d="M779.4,63.6h-190"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 663.3938 83.5)" class="st7 st8" style="text-decoration: underline;">id (bigint, auto inc.)</text>
+		<text transform="matrix(1 0 0 1 625.3938 52.61)" class="st8 st9" style="text-decoration: underline;">id (bigint, auto inc.)</text>
 	</g>
-	<rect x="627.4" y="64.5" pointer-events="all" class="st0" width="30" height="30"/>
-	<path pointer-events="all" class="st1" d="M657.4,64.5v30"/>
+	<rect x="589.4" y="33.6" pointer-events="all" class="st7" width="30" height="30"/>
+	<path pointer-events="all" class="st1" d="M619.4,33.6v30"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 633.3938 83.5)" class="st9 st8">PK</text>
+		<text transform="matrix(1 0 0 1 595.3938 52.61)" class="st10 st9">PK</text>
 	</g>
-	<rect x="627.4" y="94.5" pointer-events="all" class="st0" width="190" height="26"/>
+	<rect x="589.4" y="63.6" pointer-events="all" class="st7" width="190" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 663.3938 113.5)" class="st9 st8">capacity (smallint)</text>
+		<text transform="matrix(1 0 0 1 625.3938 82.61)" class="st10 st9">capacity (smallint)</text>
 	</g>
-	<rect x="627.4" y="94.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M657.4,94.5v26"/>
-	<rect x="627.4" y="120.5" pointer-events="all" class="st0" width="190" height="26"/>
+	<rect x="589.4" y="63.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M619.4,63.6v26"/>
+	<rect x="589.4" y="89.6" pointer-events="all" class="st7" width="190" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 663.3938 139.5)" class="st9 st8">has_screen (boolean)</text>
+		<text transform="matrix(1 0 0 1 625.3938 108.61)" class="st10 st9">has_screen (boolean)</text>
 	</g>
-	<rect x="627.4" y="120.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M657.4,120.5v26"/>
-	<rect x="627.4" y="146.5" pointer-events="all" class="st0" width="190" height="26"/>
+	<rect x="589.4" y="89.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M619.4,89.6v26"/>
+	<rect x="589.4" y="115.6" pointer-events="all" class="st7" width="190" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 663.3938 165.5)" class="st9 st8">index (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 625.3938 134.61)" class="st10 st9">index (varchar 255)</text>
 	</g>
-	<rect x="627.4" y="146.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M657.4,146.5v26"/>
-	<rect x="627.4" y="172.5" pointer-events="all" class="st0" width="190" height="26"/>
+	<rect x="589.4" y="115.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M619.4,115.6v26"/>
+	<rect x="589.4" y="141.6" pointer-events="all" class="st7" width="190" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 663.3938 191.5)" class="st9 st8" style="text-decoration: underline;">faculty_name (varchar255)</text>
+		<text transform="matrix(1 0 0 1 625.3938 160.61)" class="st10 st9" style="text-decoration: underline;">faculty_name (varchar255)</text>
 	</g>
-	<rect x="627.4" y="172.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M657.4,172.5v26"/>
+	<rect x="589.4" y="141.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M619.4,141.6v26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 633.3938 191.5)" class="st9 st8">FK</text>
+		<text transform="matrix(1 0 0 1 595.3938 160.61)" class="st10 st9">FK</text>
 	</g>
-	<rect x="627.4" y="198.5" pointer-events="all" class="st0" width="190" height="10"/>
-	<rect x="627.4" y="198.5" pointer-events="all" class="st0" width="30" height="10"/>
-	<path pointer-events="all" class="st1" d="M657.4,198.5v10"/>
+	<rect x="589.4" y="167.6" pointer-events="all" class="st7" width="190" height="10"/>
+	<rect x="589.4" y="167.6" pointer-events="all" class="st7" width="30" height="10"/>
+	<path pointer-events="all" class="st1" d="M619.4,167.6v10"/>
 </g>
-<path pointer-events="all" class="st1" d="M67.4,130.5"/>
-<path pointer-events="all" class="st1" d="M67.4,140.5"/>
+<path pointer-events="all" class="st1" d="M29.4,99.6"/>
+<path pointer-events="all" class="st1" d="M29.4,109.6"/>
 <g>
-	<path pointer-events="all" class="st2" d="M67.4,74.5v-26h190v26"/>
-	<path pointer-events="all" class="st3" d="M67.4,74.5v66h190v-66"/>
-	<path pointer-events="all" class="st4" d="M67.4,74.5h190"/>
+	<path pointer-events="all" class="st2" d="M29.4,43.6v-26h190v26"/>
+	<path pointer-events="all" class="st3" d="M29.4,43.6v66h190v-66"/>
+	<path pointer-events="all" class="st4" d="M29.4,43.6h190"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 117.738 65.5)" class="st5 st6">departments</text>
+		<text transform="matrix(1 0 0 1 79.738 34.61)" class="st5 st6">departments</text>
 	</g>
-	<rect x="67.4" y="74.5" pointer-events="all" class="st0" width="190" height="30"/>
-	<path pointer-events="all" class="st1" d="M257.4,104.5h-190"/>
+	<rect x="29.4" y="43.6" pointer-events="all" class="st7" width="190" height="30"/>
+	<path pointer-events="all" class="st1" d="M219.4,73.6h-190"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 103.3938 93.5)" class="st7 st8" style="text-decoration: underline;">name (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 65.3938 62.61)" class="st8 st9" style="text-decoration: underline;">name (varchar 255)</text>
 	</g>
-	<rect x="67.4" y="74.5" pointer-events="all" class="st0" width="30" height="30"/>
-	<path pointer-events="all" class="st1" d="M97.4,74.5v30"/>
+	<rect x="29.4" y="43.6" pointer-events="all" class="st7" width="30" height="30"/>
+	<path pointer-events="all" class="st1" d="M59.4,43.6v30"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 73.3938 93.5)" class="st9 st8">PK</text>
+		<text transform="matrix(1 0 0 1 35.3938 62.61)" class="st10 st9">PK</text>
 	</g>
-	<rect x="67.4" y="104.5" pointer-events="all" class="st0" width="190" height="26"/>
+	<rect x="29.4" y="73.6" pointer-events="all" class="st7" width="190" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 103.3938 123.5)" class="st9 st8" style="text-decoration: underline;">faculty_name (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 65.3938 92.61)" class="st10 st9" style="text-decoration: underline;">faculty_name (varchar 255)</text>
 	</g>
-	<rect x="67.4" y="104.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M97.4,104.5v26"/>
+	<rect x="29.4" y="73.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M59.4,73.6v26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 73.3938 123.5)" class="st9 st8">FK</text>
+		<text transform="matrix(1 0 0 1 35.3938 92.61)" class="st10 st9">FK</text>
 	</g>
-	<rect x="67.4" y="130.5" pointer-events="all" class="st0" width="190" height="10"/>
-	<rect x="67.4" y="130.5" pointer-events="all" class="st0" width="30" height="10"/>
-	<path pointer-events="all" class="st1" d="M97.4,130.5v10"/>
+	<rect x="29.4" y="99.6" pointer-events="all" class="st7" width="190" height="10"/>
+	<rect x="29.4" y="99.6" pointer-events="all" class="st7" width="30" height="10"/>
+	<path pointer-events="all" class="st1" d="M59.4,99.6v10"/>
 </g>
 <g>
-	<path pointer-events="all" class="st2" d="M602.4,478.5v-26h190v26"/>
-	<path pointer-events="all" class="st3" d="M602.4,478.5v66h190v-66"/>
-	<path pointer-events="all" class="st4" d="M602.4,478.5h190"/>
+	<path pointer-events="all" class="st2" d="M564.4,447.6v-26h190v26"/>
+	<path pointer-events="all" class="st3" d="M564.4,447.6v66h190v-66"/>
+	<path pointer-events="all" class="st4" d="M564.4,447.6h190"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 616.4836 469.5)" class="st5 st6">day_schedules_studies</text>
+		<text transform="matrix(1 0 0 1 578.4836 438.61)" class="st5 st6">day_schedules_studies</text>
 	</g>
-	<rect x="602.4" y="478.5" pointer-events="all" class="st0" width="190" height="30"/>
-	<path pointer-events="all" class="st0" d="M792.4,508.5h-190"/>
+	<rect x="564.4" y="447.6" pointer-events="all" class="st7" width="190" height="30"/>
+	<path pointer-events="all" class="st7" d="M754.4,477.6h-190"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 638.3938 497.5)" class="st9 st8" style="text-decoration: underline;">day_schedule_id (bigint)</text>
+		<text transform="matrix(1 0 0 1 600.3938 466.61)" class="st10 st9" style="text-decoration: underline;">day_schedule_id (bigint)</text>
 	</g>
-	<rect x="602.4" y="478.5" pointer-events="all" class="st0" width="30" height="30"/>
-	<path pointer-events="all" class="st1" d="M632.4,478.5v30"/>
+	<rect x="564.4" y="447.6" pointer-events="all" class="st7" width="30" height="30"/>
+	<path pointer-events="all" class="st1" d="M594.4,447.6v30"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 608.3938 497.5)" class="st9 st8">FK</text>
+		<text transform="matrix(1 0 0 1 570.3938 466.61)" class="st10 st9">FK</text>
 	</g>
-	<rect x="602.4" y="508.5" pointer-events="all" class="st0" width="190" height="26"/>
-	<path pointer-events="all" class="st0" d="M602.4,534.5"/>
+	<rect x="564.4" y="477.6" pointer-events="all" class="st7" width="190" height="26"/>
+	<path pointer-events="all" class="st7" d="M564.4,503.6"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 638.3938 527.5)" class="st9 st8" style="text-decoration: underline;">study_id (bigint)</text>
+		<text transform="matrix(1 0 0 1 600.3938 496.61)" class="st10 st9" style="text-decoration: underline;">study_id (bigint)</text>
 	</g>
-	<rect x="602.4" y="508.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M632.4,508.5v26"/>
+	<rect x="564.4" y="477.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M594.4,477.6v26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 608.3938 527.5)" class="st9 st8">FK</text>
+		<text transform="matrix(1 0 0 1 570.3938 496.61)" class="st10 st9">FK</text>
 	</g>
-	<rect x="602.4" y="534.5" pointer-events="all" class="st0" width="190" height="10"/>
-	<path pointer-events="all" class="st1" d="M602.4,544.5"/>
-	<rect x="602.4" y="534.5" pointer-events="all" class="st0" width="30" height="10"/>
-	<path pointer-events="all" class="st1" d="M632.4,534.5v10"/>
+	<rect x="564.4" y="503.6" pointer-events="all" class="st7" width="190" height="10"/>
+	<path pointer-events="all" class="st1" d="M564.4,513.6"/>
+	<rect x="564.4" y="503.6" pointer-events="all" class="st7" width="30" height="10"/>
+	<path pointer-events="all" class="st1" d="M594.4,503.6v10"/>
 </g>
-<path pointer-events="all" class="st2" d="M67.4,194.5v-26h220v26"/>
-<path pointer-events="all" class="st3" d="M67.4,194.5v66h220v-66"/>
-<path pointer-events="all" class="st4" d="M67.4,194.5h220"/>
+<path pointer-events="all" class="st2" d="M29.4,163.6v-26h220v26"/>
+<path pointer-events="all" class="st3" d="M29.4,163.6v66h220v-66"/>
+<path pointer-events="all" class="st4" d="M29.4,163.6h220"/>
 <g transform="translate(-0.5 -0.5)">
-	<text transform="matrix(1 0 0 1 89.8831 185.5)" class="st5 st6">departments_professors</text>
+	<text transform="matrix(1 0 0 1 51.8831 154.61)" class="st5 st6">departments_professors</text>
 </g>
-<rect x="102.9" y="224.5" pointer-events="all" class="st0" width="243.5" height="30"/>
-<path pointer-events="all" class="st0" d="M282.4,224.5h-215"/>
+<rect x="64.9" y="193.6" pointer-events="all" class="st7" width="243.5" height="30"/>
+<path pointer-events="all" class="st7" d="M244.4,193.6h-215"/>
 <g transform="translate(-0.5 -0.5)">
-	<text transform="matrix(1 0 0 1 103.3938 213.5)" class="st9 st8" style="text-decoration: underline;">department_name (varchar 255)</text>
+	<text transform="matrix(1 0 0 1 65.3938 182.61)" class="st10 st9" style="text-decoration: underline;">department_name (varchar 255)</text>
 </g>
-<rect x="67.4" y="194.5" pointer-events="all" class="st0" width="30" height="30"/>
-<path pointer-events="all" class="st1" d="M97.4,194.5v30"/>
+<rect x="29.4" y="163.6" pointer-events="all" class="st7" width="30" height="30"/>
+<path pointer-events="all" class="st1" d="M59.4,163.6v30"/>
 <g transform="translate(-0.5 -0.5)">
-	<text transform="matrix(1 0 0 1 73.3938 213.5)" class="st9 st8">FK</text>
+	<text transform="matrix(1 0 0 1 35.3938 182.61)" class="st10 st9">FK</text>
 </g>
-<rect x="67.4" y="224.5" pointer-events="all" class="st0" width="220" height="26"/>
-<path pointer-events="all" class="st0" d="M67.4,250.5"/>
+<rect x="29.4" y="193.6" pointer-events="all" class="st7" width="220" height="26"/>
+<path pointer-events="all" class="st7" d="M29.4,219.6"/>
 <g transform="translate(-0.5 -0.5)">
-	<text transform="matrix(1 0 0 1 103.3938 243.5)" class="st9 st8" style="text-decoration: underline;">professor_card (varchar 255)</text>
+	<text transform="matrix(1 0 0 1 65.3938 212.61)" class="st10 st9" style="text-decoration: underline;">professor_card (varchar 255)</text>
 </g>
-<rect x="67.4" y="224.5" pointer-events="all" class="st0" width="30" height="26"/>
-<path pointer-events="all" class="st1" d="M97.4,224.5v26"/>
+<rect x="29.4" y="193.6" pointer-events="all" class="st7" width="30" height="26"/>
+<path pointer-events="all" class="st1" d="M59.4,193.6v26"/>
 <g transform="translate(-0.5 -0.5)">
-	<text transform="matrix(1 0 0 1 73.3938 243.5)" class="st9 st8">FK</text>
+	<text transform="matrix(1 0 0 1 35.3938 212.61)" class="st10 st9">FK</text>
 </g>
-<rect x="67.4" y="250.5" pointer-events="all" class="st0" width="220" height="10"/>
-<path pointer-events="all" class="st1" d="M67.4,260.5"/>
-<rect x="67.4" y="250.5" pointer-events="all" class="st0" width="30" height="10"/>
-<path pointer-events="all" class="st1" d="M97.4,250.5v10"/>
+<rect x="29.4" y="219.6" pointer-events="all" class="st7" width="220" height="10"/>
+<path pointer-events="all" class="st1" d="M29.4,229.6"/>
+<rect x="29.4" y="219.6" pointer-events="all" class="st7" width="30" height="10"/>
+<path pointer-events="all" class="st1" d="M59.4,219.6v10"/>
 <g>
-	<path pointer-events="all" class="st2" d="M337.4,74.5v-26h190v26"/>
-	<path pointer-events="all" class="st3" d="M337.4,74.5v34h190v-34"/>
-	<path pointer-events="all" class="st4" d="M337.4,74.5h190"/>
+	<path pointer-events="all" class="st2" d="M299.4,43.6v-26h190v26"/>
+	<path pointer-events="all" class="st3" d="M299.4,43.6v34h190v-34"/>
+	<path pointer-events="all" class="st4" d="M299.4,43.6h190"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 403.2351 65.5)" class="st5 st6">faculties</text>
+		<text transform="matrix(1 0 0 1 365.2351 34.61)" class="st5 st6">faculties</text>
 	</g>
-	<rect x="337.4" y="74.5" pointer-events="all" class="st0" width="190" height="30"/>
-	<path pointer-events="all" class="st0" d="M527.4,104.5h-190"/>
+	<rect x="299.4" y="43.6" pointer-events="all" class="st7" width="190" height="30"/>
+	<path pointer-events="all" class="st7" d="M489.4,73.6h-190"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 373.3938 93.5)" class="st7 st8" style="text-decoration: underline;">name (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 335.3938 62.61)" class="st8 st9" style="text-decoration: underline;">name (varchar 255)</text>
 	</g>
-	<rect x="337.4" y="74.5" pointer-events="all" class="st0" width="30" height="30"/>
-	<path pointer-events="all" class="st1" d="M367.4,74.5v30"/>
+	<rect x="299.4" y="43.6" pointer-events="all" class="st7" width="30" height="30"/>
+	<path pointer-events="all" class="st1" d="M329.4,43.6v30"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 343.3938 93.5)" class="st9 st8">PK</text>
+		<text transform="matrix(1 0 0 1 305.3938 62.61)" class="st10 st9">PK</text>
 	</g>
 </g>
-<path pointer-events="all" class="st1" d="M-72.6,730.5"/>
-<path pointer-events="all" class="st1" d="M-72.6,756.5"/>
-<path pointer-events="all" class="st1" d="M-72.6,782.5"/>
-<path pointer-events="all" class="st1" d="M-72.6,792.5"/>
+<path pointer-events="all" class="st1" d="M-110.6,699.6"/>
+<path pointer-events="all" class="st1" d="M-110.6,725.6"/>
+<path pointer-events="all" class="st1" d="M-110.6,751.6"/>
+<path pointer-events="all" class="st1" d="M-110.6,761.6"/>
 <g>
-	<path pointer-events="all" class="st2" d="M602.4,593.5v-26h180v26"/>
-	<path pointer-events="all" class="st3" d="M602.4,593.5v118h180v-118"/>
-	<path pointer-events="all" class="st4" d="M602.4,593.5h180"/>
+	<path pointer-events="all" class="st2" d="M564.4,562.6v-26h180v26"/>
+	<path pointer-events="all" class="st3" d="M564.4,562.6v118h180v-118"/>
+	<path pointer-events="all" class="st4" d="M564.4,562.6h180"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 640.8679 584.5)" class="st5 st6">day_schedules</text>
+		<text transform="matrix(1 0 0 1 602.8679 553.61)" class="st5 st6">day_schedules</text>
 	</g>
-	<rect x="602.4" y="593.5" pointer-events="all" class="st0" width="180" height="30"/>
-	<path pointer-events="all" class="st1" d="M782.4,623.5h-180"/>
+	<rect x="564.4" y="562.6" pointer-events="all" class="st7" width="180" height="30"/>
+	<path pointer-events="all" class="st1" d="M744.4,592.6h-180"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 638.3938 612.5)" class="st7 st8" style="text-decoration: underline;">id (bigint, auto inc.)</text>
+		<text transform="matrix(1 0 0 1 600.3938 581.61)" class="st8 st9" style="text-decoration: underline;">id (bigint, auto inc.)</text>
 	</g>
-	<rect x="602.4" y="593.5" pointer-events="all" class="st0" width="30" height="30"/>
-	<path pointer-events="all" class="st1" d="M632.4,593.5v30"/>
+	<rect x="564.4" y="562.6" pointer-events="all" class="st7" width="30" height="30"/>
+	<path pointer-events="all" class="st1" d="M594.4,562.6v30"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 608.3938 612.5)" class="st9 st8">PK</text>
+		<text transform="matrix(1 0 0 1 570.3938 581.61)" class="st10 st9">PK</text>
 	</g>
-	<rect x="602.4" y="623.5" pointer-events="all" class="st0" width="180" height="26"/>
+	<rect x="564.4" y="592.6" pointer-events="all" class="st7" width="180" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 638.3938 642.5)" class="st9 st8">semester (varchar255)</text>
+		<text transform="matrix(1 0 0 1 600.3938 611.61)" class="st10 st9">semester (varchar255)</text>
 	</g>
-	<rect x="602.4" y="623.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M632.4,623.5v26"/>
-	<rect x="602.4" y="649.5" pointer-events="all" class="st0" width="180" height="26"/>
+	<rect x="564.4" y="592.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M594.4,592.6v26"/>
+	<rect x="564.4" y="618.6" pointer-events="all" class="st7" width="180" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 638.3938 668.5)" class="st9 st8">study_day (varchar255)</text>
+		<text transform="matrix(1 0 0 1 600.3938 637.61)" class="st10 st9">study_day (varchar255)</text>
 	</g>
-	<rect x="602.4" y="649.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M632.4,649.5v26"/>
-	<rect x="602.4" y="675.5" pointer-events="all" class="st0" width="180" height="26"/>
+	<rect x="564.4" y="618.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M594.4,618.6v26"/>
+	<rect x="564.4" y="644.6" pointer-events="all" class="st7" width="180" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 638.3938 694.5)" class="st9 st8" style="text-decoration: underline;">group_id</text>
+		<text transform="matrix(1 0 0 1 600.3938 663.61)" class="st10 st9" style="text-decoration: underline;">group_id</text>
 	</g>
-	<rect x="602.4" y="675.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M632.4,675.5v26"/>
+	<rect x="564.4" y="644.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M594.4,644.6v26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 608.3938 694.5)" class="st9 st8">FK</text>
+		<text transform="matrix(1 0 0 1 570.3938 663.61)" class="st10 st9">FK</text>
 	</g>
-	<rect x="602.4" y="701.5" pointer-events="all" class="st0" width="180" height="10"/>
-	<rect x="602.4" y="701.5" pointer-events="all" class="st0" width="30" height="10"/>
-	<path pointer-events="all" class="st1" d="M632.4,701.5v10"/>
+	<rect x="564.4" y="670.6" pointer-events="all" class="st7" width="180" height="10"/>
+	<rect x="564.4" y="670.6" pointer-events="all" class="st7" width="30" height="10"/>
+	<path pointer-events="all" class="st1" d="M594.4,670.6v10"/>
 </g>
-<path pointer-events="all" class="st1" d="M657.4,730.5"/>
-<path pointer-events="all" class="st1" d="M657.4,756.5"/>
-<path pointer-events="all" class="st1" d="M657.4,782.5"/>
-<path pointer-events="all" class="st1" d="M657.4,792.5"/>
+<path pointer-events="all" class="st1" d="M619.4,699.6"/>
+<path pointer-events="all" class="st1" d="M619.4,725.6"/>
+<path pointer-events="all" class="st1" d="M619.4,751.6"/>
+<path pointer-events="all" class="st1" d="M619.4,761.6"/>
 <g>
-	<path pointer-events="all" class="st2" d="M201.4,564.5v-26h220v26"/>
-	<path pointer-events="all" class="st3" d="M201.4,564.5v118h220v-118"/>
-	<path pointer-events="all" class="st4" d="M201.4,564.5h220"/>
+	<path pointer-events="all" class="st2" d="M163.4,533.6v-26h220v26"/>
+	<path pointer-events="all" class="st3" d="M163.4,533.6v118h220v-118"/>
+	<path pointer-events="all" class="st4" d="M163.4,533.6h220"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 287.3586 555.5)" class="st5 st6">groups</text>
+		<text transform="matrix(1 0 0 1 249.3586 524.61)" class="st5 st6">groups</text>
 	</g>
-	<rect x="201.4" y="564.5" pointer-events="all" class="st0" width="220" height="30"/>
-	<path pointer-events="all" class="st1" d="M421.4,594.5h-220"/>
+	<rect x="163.4" y="533.6" pointer-events="all" class="st7" width="220" height="30"/>
+	<path pointer-events="all" class="st1" d="M383.4,563.6h-220"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 237.3938 583.5)" class="st7 st8" style="text-decoration: underline;">id (bigint, auto inc.)</text>
+		<text transform="matrix(1 0 0 1 199.3938 552.61)" class="st8 st9" style="text-decoration: underline;">id (bigint, auto inc.)</text>
 	</g>
-	<rect x="201.4" y="564.5" pointer-events="all" class="st0" width="30" height="30"/>
-	<path pointer-events="all" class="st1" d="M231.4,564.5v30"/>
+	<rect x="163.4" y="533.6" pointer-events="all" class="st7" width="30" height="30"/>
+	<path pointer-events="all" class="st1" d="M193.4,533.6v30"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 207.3938 583.5)" class="st9 st8">PK</text>
+		<text transform="matrix(1 0 0 1 169.3938 552.61)" class="st10 st9">PK</text>
 	</g>
-	<rect x="201.4" y="594.5" pointer-events="all" class="st0" width="220" height="26"/>
+	<rect x="163.4" y="563.6" pointer-events="all" class="st7" width="220" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 237.3938 613.5)" class="st9 st8">group_number (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 199.3938 582.61)" class="st10 st9">group_number (varchar 255)</text>
 	</g>
-	<rect x="201.4" y="594.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M231.4,594.5v26"/>
-	<rect x="201.4" y="620.5" pointer-events="all" class="st0" width="220" height="26"/>
+	<rect x="163.4" y="563.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M193.4,563.6v26"/>
+	<rect x="163.4" y="589.6" pointer-events="all" class="st7" width="220" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 237.3938 639.5)" class="st9 st8" style="text-decoration: underline;">academic_year_id (bigint)</text>
+		<text transform="matrix(1 0 0 1 199.3938 608.61)" class="st10 st9" style="text-decoration: underline;">academic_year_id (bigint)</text>
 	</g>
-	<rect x="201.4" y="620.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M231.4,620.5v26"/>
+	<rect x="163.4" y="589.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M193.4,589.6v26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 207.3938 639.5)" class="st9 st8">FK</text>
+		<text transform="matrix(1 0 0 1 169.3938 608.61)" class="st10 st9">FK</text>
 	</g>
-	<rect x="201.4" y="646.5" pointer-events="all" class="st0" width="220" height="26"/>
+	<rect x="163.4" y="615.6" pointer-events="all" class="st7" width="220" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 237.3938 665.5)" class="st9 st8" style="text-decoration: underline;">department_name (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 199.3938 634.61)" class="st10 st9" style="text-decoration: underline;">department_name (varchar 255)</text>
 	</g>
-	<rect x="201.4" y="646.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M231.4,646.5v26"/>
+	<rect x="163.4" y="615.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M193.4,615.6v26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 207.3938 665.5)" class="st9 st8">FK</text>
+		<text transform="matrix(1 0 0 1 169.3938 634.61)" class="st10 st9">FK</text>
 	</g>
-	<rect x="201.4" y="672.5" pointer-events="all" class="st0" width="220" height="10"/>
-	<rect x="201.4" y="672.5" pointer-events="all" class="st0" width="30" height="10"/>
-	<path pointer-events="all" class="st1" d="M231.4,672.5v10"/>
+	<rect x="163.4" y="641.6" pointer-events="all" class="st7" width="220" height="10"/>
+	<rect x="163.4" y="641.6" pointer-events="all" class="st7" width="30" height="10"/>
+	<path pointer-events="all" class="st1" d="M193.4,641.6v10"/>
 </g>
-<path pointer-events="all" class="st1" d="M327.4,250.5"/>
-<path pointer-events="all" class="st1" d="M327.4,276.5"/>
-<path pointer-events="all" class="st1" d="M327.4,302.5"/>
-<path pointer-events="all" class="st1" d="M327.4,328.5"/>
-<path pointer-events="all" class="st1" d="M327.4,354.5"/>
-<path pointer-events="all" class="st1" d="M327.4,364.5"/>
+<path pointer-events="all" class="st1" d="M289.4,219.6"/>
+<path pointer-events="all" class="st1" d="M289.4,245.6"/>
+<path pointer-events="all" class="st1" d="M289.4,271.6"/>
+<path pointer-events="all" class="st1" d="M289.4,297.6"/>
+<path pointer-events="all" class="st1" d="M289.4,323.6"/>
+<path pointer-events="all" class="st1" d="M289.4,333.6"/>
 <g>
-	<path pointer-events="all" class="st2" d="M327.4,194.5v-26h210v26"/>
-	<path pointer-events="all" class="st3" d="M327.4,194.5v170h210v-170"/>
-	<path pointer-events="all" class="st4" d="M327.4,194.5h210"/>
+	<path pointer-events="all" class="st2" d="M289.4,163.6v-26h210v26"/>
+	<path pointer-events="all" class="st3" d="M289.4,163.6v170h210v-170"/>
+	<path pointer-events="all" class="st4" d="M289.4,163.6h210"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 395.989 185.5)" class="st5 st6">professors</text>
+		<text transform="matrix(1 0 0 1 357.989 154.61)" class="st5 st6">professors</text>
 	</g>
-	<rect x="327.4" y="194.5" pointer-events="all" class="st0" width="210" height="30"/>
-	<path pointer-events="all" class="st1" d="M537.4,224.5h-210"/>
+	<rect x="289.4" y="163.6" pointer-events="all" class="st7" width="210" height="30"/>
+	<path pointer-events="all" class="st1" d="M499.4,193.6h-210"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 363.3938 213.5)" class="st7 st8" style="text-decoration: underline;">professor_card (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 325.3938 182.61)" class="st8 st9" style="text-decoration: underline;">professor_card (varchar 255)</text>
 	</g>
-	<rect x="327.4" y="194.5" pointer-events="all" class="st0" width="30" height="30"/>
-	<path pointer-events="all" class="st1" d="M357.4,194.5v30"/>
+	<rect x="289.4" y="163.6" pointer-events="all" class="st7" width="30" height="30"/>
+	<path pointer-events="all" class="st1" d="M319.4,163.6v30"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 333.3938 213.5)" class="st9 st8">PK</text>
+		<text transform="matrix(1 0 0 1 295.3938 182.61)" class="st10 st9">PK</text>
 	</g>
-	<rect x="327.4" y="224.5" pointer-events="all" class="st0" width="210" height="26"/>
+	<rect x="289.4" y="193.6" pointer-events="all" class="st7" width="210" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 363.3938 243.5)" class="st9 st8">name (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 325.3938 212.61)" class="st10 st9">name (varchar 255)</text>
 	</g>
-	<rect x="327.4" y="224.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M357.4,224.5v26"/>
-	<rect x="327.4" y="250.5" pointer-events="all" class="st0" width="210" height="26"/>
+	<rect x="289.4" y="193.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M319.4,193.6v26"/>
+	<rect x="289.4" y="219.6" pointer-events="all" class="st7" width="210" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 363.3938 269.5)" class="st9 st8">surname (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 325.3938 238.61)" class="st10 st9">surname (varchar 255)</text>
 	</g>
-	<rect x="327.4" y="250.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M357.4,250.5v26"/>
-	<rect x="327.4" y="276.5" pointer-events="all" class="st0" width="210" height="26"/>
+	<rect x="289.4" y="219.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M319.4,219.6v26"/>
+	<rect x="289.4" y="245.6" pointer-events="all" class="st7" width="210" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 363.3938 295.5)" class="st9 st8">phone_number (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 325.3938 264.61)" class="st10 st9">phone_number (varchar 255)</text>
 	</g>
-	<rect x="327.4" y="276.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M357.4,276.5v26"/>
-	<rect x="327.4" y="302.5" pointer-events="all" class="st0" width="210" height="26"/>
+	<rect x="289.4" y="245.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M319.4,245.6v26"/>
+	<rect x="289.4" y="271.6" pointer-events="all" class="st7" width="210" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 363.3938 321.5)" class="st9 st8">rank (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 325.3938 290.61)" class="st10 st9">rank (varchar 255)</text>
 	</g>
-	<rect x="327.4" y="302.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M357.4,302.5v26"/>
-	<rect x="327.4" y="328.5" pointer-events="all" class="st0" width="210" height="26"/>
+	<rect x="289.4" y="271.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M319.4,271.6v26"/>
+	<rect x="289.4" y="297.6" pointer-events="all" class="st7" width="210" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 363.3938 347.5)" class="st9 st8">is_dismissed (boolean)</text>
+		<text transform="matrix(1 0 0 1 325.3938 316.61)" class="st10 st9">is_dismissed (boolean)</text>
 	</g>
-	<rect x="327.4" y="328.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M357.4,328.5v26"/>
-	<rect x="327.4" y="354.5" pointer-events="all" class="st0" width="210" height="10"/>
-	<rect x="327.4" y="354.5" pointer-events="all" class="st0" width="30" height="10"/>
-	<path pointer-events="all" class="st1" d="M357.4,354.5v10"/>
+	<rect x="289.4" y="297.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M319.4,297.6v26"/>
+	<rect x="289.4" y="323.6" pointer-events="all" class="st7" width="210" height="10"/>
+	<rect x="289.4" y="323.6" pointer-events="all" class="st7" width="30" height="10"/>
+	<path pointer-events="all" class="st1" d="M319.4,323.6v10"/>
 </g>
 <g>
-	<path pointer-events="all" class="st2" d="M67.4,312.5v-26h230v26"/>
-	<path pointer-events="all" class="st3" d="M67.4,312.5v196h230v-196"/>
-	<path pointer-events="all" class="st4" d="M67.4,312.5h230"/>
+	<path pointer-events="all" class="st2" d="M29.4,281.6v-26h230v26"/>
+	<path pointer-events="all" class="st3" d="M29.4,281.6v196h230v-196"/>
+	<path pointer-events="all" class="st4" d="M29.4,281.6h230"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 152.1926 303.5)" class="st5 st6">students</text>
+		<text transform="matrix(1 0 0 1 114.1926 272.61)" class="st5 st6">students</text>
 	</g>
-	<rect x="67.4" y="312.5" pointer-events="all" class="st0" width="230" height="30"/>
-	<path pointer-events="all" class="st1" d="M297.4,342.5h-230"/>
+	<rect x="29.4" y="281.6" pointer-events="all" class="st7" width="230" height="30"/>
+	<path pointer-events="all" class="st1" d="M259.4,311.6h-230"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 103.3938 331.5)" class="st7 st8" style="text-decoration: underline;">student_card (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 65.3938 300.61)" class="st8 st9" style="text-decoration: underline;">student_card (varchar 255)</text>
 	</g>
-	<rect x="67.4" y="312.5" pointer-events="all" class="st0" width="30" height="30"/>
-	<path pointer-events="all" class="st1" d="M97.4,312.5v30"/>
+	<rect x="29.4" y="281.6" pointer-events="all" class="st7" width="30" height="30"/>
+	<path pointer-events="all" class="st1" d="M59.4,281.6v30"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 73.3938 331.5)" class="st9 st8">PK</text>
+		<text transform="matrix(1 0 0 1 35.3938 300.61)" class="st10 st9">PK</text>
 	</g>
-	<rect x="67.4" y="342.5" pointer-events="all" class="st0" width="230" height="26"/>
-	<path pointer-events="all" class="st1" d="M67.4,368.5"/>
+	<rect x="29.4" y="311.6" pointer-events="all" class="st7" width="230" height="26"/>
+	<path pointer-events="all" class="st1" d="M29.4,337.6"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 103.3938 361.5)" class="st9 st8">name (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 65.3938 330.61)" class="st10 st9">name (varchar 255)</text>
 	</g>
-	<rect x="67.4" y="342.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M97.4,342.5v26"/>
-	<rect x="67.4" y="368.5" pointer-events="all" class="st0" width="230" height="26"/>
-	<path pointer-events="all" class="st1" d="M67.4,394.5"/>
+	<rect x="29.4" y="311.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M59.4,311.6v26"/>
+	<rect x="29.4" y="337.6" pointer-events="all" class="st7" width="230" height="26"/>
+	<path pointer-events="all" class="st1" d="M29.4,363.6"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 103.3938 387.5)" class="st9 st8">surname (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 65.3938 356.61)" class="st10 st9">surname (varchar 255)</text>
 	</g>
-	<rect x="67.4" y="368.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M97.4,368.5v26"/>
-	<rect x="67.4" y="394.5" pointer-events="all" class="st0" width="230" height="26"/>
-	<path pointer-events="all" class="st1" d="M67.4,420.5"/>
+	<rect x="29.4" y="337.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M59.4,337.6v26"/>
+	<rect x="29.4" y="363.6" pointer-events="all" class="st7" width="230" height="26"/>
+	<path pointer-events="all" class="st1" d="M29.4,389.6"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 103.3938 413.5)" class="st9 st8">phone_number (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 65.3938 382.61)" class="st10 st9">phone_number (varchar 255)</text>
 	</g>
-	<rect x="67.4" y="394.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M97.4,394.5v26"/>
-	<rect x="67.4" y="420.5" pointer-events="all" class="st0" width="230" height="26"/>
-	<path pointer-events="all" class="st1" d="M67.4,446.5"/>
+	<rect x="29.4" y="363.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M59.4,363.6v26"/>
+	<rect x="29.4" y="389.6" pointer-events="all" class="st7" width="230" height="26"/>
+	<path pointer-events="all" class="st1" d="M29.4,415.6"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 103.3938 439.5)" class="st10"><tspan x="0" y="0" class="st9 st8" style="text-decoration: underline;">department_name </tspan><tspan x="100.7" y="0" class="st9 st8">(varchar 255)</tspan></text>
+		<text transform="matrix(1 0 0 1 65.3938 408.61)" class="st10 st9" style="text-decoration: underline;">department_name </text>
+		<text transform="matrix(1 0 0 1 166.0938 408.61)" class="st10 st9">(varchar 255)</text>
 	</g>
-	<rect x="67.4" y="420.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M97.4,420.5v26"/>
+	<rect x="29.4" y="389.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M59.4,389.6v26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 73.3938 439.5)" class="st9 st8">FK</text>
+		<text transform="matrix(1 0 0 1 35.3938 408.61)" class="st10 st9">FK</text>
 	</g>
-	<rect x="67.4" y="446.5" pointer-events="all" class="st0" width="230" height="26"/>
-	<path pointer-events="all" class="st1" d="M67.4,472.5"/>
+	<rect x="29.4" y="415.6" pointer-events="all" class="st7" width="230" height="26"/>
+	<path pointer-events="all" class="st1" d="M29.4,441.6"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 103.3938 465.5)" class="st9 st8" style="text-decoration: underline;">academic_year id (bigint)</text>
+		<text transform="matrix(1 0 0 1 65.3938 434.61)" class="st10 st9" style="text-decoration: underline;">academic_year id (bigint)</text>
 	</g>
-	<rect x="67.4" y="446.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M97.4,446.5v26"/>
+	<rect x="29.4" y="415.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M59.4,415.6v26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 73.3938 465.5)" class="st9 st8">FK</text>
+		<text transform="matrix(1 0 0 1 35.3938 434.61)" class="st10 st9">FK</text>
 	</g>
-	<rect x="67.4" y="472.5" pointer-events="all" class="st0" width="230" height="26"/>
-	<path pointer-events="all" class="st1" d="M67.4,498.5"/>
+	<rect x="29.4" y="441.6" pointer-events="all" class="st7" width="230" height="26"/>
+	<path pointer-events="all" class="st1" d="M29.4,467.6"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 103.3938 491.5)" class="st9 st8" style="text-decoration: underline;">group_id (bigint)</text>
+		<text transform="matrix(1 0 0 1 65.3938 460.61)" class="st10 st9" style="text-decoration: underline;">group_id (bigint)</text>
 	</g>
-	<rect x="67.4" y="472.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M97.4,472.5v26"/>
+	<rect x="29.4" y="441.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M59.4,441.6v26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 73.3938 491.5)" class="st9 st8">FK</text>
+		<text transform="matrix(1 0 0 1 35.3938 460.61)" class="st10 st9">FK</text>
 	</g>
-	<rect x="67.4" y="498.5" pointer-events="all" class="st0" width="230" height="10"/>
-	<path pointer-events="all" class="st1" d="M67.4,508.5"/>
-	<rect x="67.4" y="498.5" pointer-events="all" class="st0" width="30" height="10"/>
-	<path pointer-events="all" class="st1" d="M97.4,498.5v10"/>
+	<rect x="29.4" y="467.6" pointer-events="all" class="st7" width="230" height="10"/>
+	<path pointer-events="all" class="st1" d="M29.4,477.6"/>
+	<rect x="29.4" y="467.6" pointer-events="all" class="st7" width="30" height="10"/>
+	<path pointer-events="all" class="st1" d="M59.4,467.6v10"/>
 </g>
-<path pointer-events="all" class="st1" d="M587.4,314.5"/>
-<path pointer-events="all" class="st1" d="M587.4,340.5"/>
-<path pointer-events="all" class="st1" d="M587.4,366.5"/>
-<path pointer-events="all" class="st1" d="M587.4,392.5"/>
-<path pointer-events="all" class="st1" d="M587.4,402.5"/>
+<path pointer-events="all" class="st1" d="M549.4,283.6"/>
+<path pointer-events="all" class="st1" d="M549.4,309.6"/>
+<path pointer-events="all" class="st1" d="M549.4,335.6"/>
+<path pointer-events="all" class="st1" d="M549.4,361.6"/>
+<path pointer-events="all" class="st1" d="M549.4,371.6"/>
 <g>
-	<path pointer-events="all" class="st2" d="M587.4,258.5v-26h230v26"/>
-	<path pointer-events="all" class="st3" d="M587.4,258.5v144h230v-144"/>
-	<path pointer-events="all" class="st4" d="M587.4,258.5h230"/>
+	<path pointer-events="all" class="st2" d="M549.4,227.6v-26h230v26"/>
+	<path pointer-events="all" class="st3" d="M549.4,227.6v144h230v-144"/>
+	<path pointer-events="all" class="st4" d="M549.4,227.6h230"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 677.4597 249.5)" class="st5 st6">studies</text>
+		<text transform="matrix(1 0 0 1 639.4597 218.61)" class="st5 st6">studies</text>
 	</g>
-	<rect x="587.4" y="258.5" pointer-events="all" class="st0" width="230" height="30"/>
-	<path pointer-events="all" class="st1" d="M817.4,288.5h-230"/>
+	<rect x="549.4" y="227.6" pointer-events="all" class="st7" width="230" height="30"/>
+	<path pointer-events="all" class="st1" d="M779.4,257.6h-230"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 623.3938 277.5)" class="st7 st8" style="text-decoration: underline;">id (bigint, auto inc.)</text>
+		<text transform="matrix(1 0 0 1 585.3938 246.61)" class="st8 st9" style="text-decoration: underline;">id (bigint, auto inc.)</text>
 	</g>
-	<rect x="587.4" y="258.5" pointer-events="all" class="st0" width="30" height="30"/>
-	<path pointer-events="all" class="st1" d="M617.4,258.5v30"/>
+	<rect x="549.4" y="227.6" pointer-events="all" class="st7" width="30" height="30"/>
+	<path pointer-events="all" class="st1" d="M579.4,227.6v30"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 593.3938 277.5)" class="st9 st8">PK</text>
+		<text transform="matrix(1 0 0 1 555.3938 246.61)" class="st10 st9">PK</text>
 	</g>
-	<rect x="587.4" y="288.5" pointer-events="all" class="st0" width="230" height="26"/>
+	<rect x="549.4" y="257.6" pointer-events="all" class="st7" width="230" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 623.3938 307.5)" class="st9 st8">name (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 585.3938 276.61)" class="st10 st9">name (varchar 255)</text>
 	</g>
-	<rect x="587.4" y="288.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M617.4,288.5v26"/>
-	<rect x="587.4" y="314.5" pointer-events="all" class="st0" width="230" height="26"/>
+	<rect x="549.4" y="257.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M579.4,257.6v26"/>
+	<rect x="549.4" y="283.6" pointer-events="all" class="st7" width="230" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 623.3938 333.5)" class="st9 st8">type (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 585.3938 302.61)" class="st10 st9">type (varchar 255)</text>
 	</g>
-	<rect x="587.4" y="314.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M617.4,314.5v26"/>
-	<rect x="587.4" y="340.5" pointer-events="all" class="st0" width="230" height="26"/>
+	<rect x="549.4" y="283.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M579.4,283.6v26"/>
+	<rect x="549.4" y="309.6" pointer-events="all" class="st7" width="230" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 623.3938 359.5)" class="st9 st8" style="text-decoration: underline;">professor_card (varchar 255)</text>
+		<text transform="matrix(1 0 0 1 585.3938 328.61)" class="st10 st9" style="text-decoration: underline;">professor_card (varchar 255)</text>
 	</g>
-	<rect x="587.4" y="340.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M617.4,340.5v26"/>
+	<rect x="549.4" y="309.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M579.4,309.6v26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 593.3938 359.5)" class="st9 st8">FK</text>
+		<text transform="matrix(1 0 0 1 555.3938 328.61)" class="st10 st9">FK</text>
 	</g>
-	<rect x="587.4" y="366.5" pointer-events="all" class="st0" width="230" height="26"/>
+	<rect x="549.4" y="335.6" pointer-events="all" class="st7" width="230" height="26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 623.3938 385.5)" class="st9 st8" style="text-decoration: underline;">auditorium_id (bigint)</text>
+		<text transform="matrix(1 0 0 1 585.3938 354.61)" class="st10 st9" style="text-decoration: underline;">auditorium_id (bigint)</text>
 	</g>
-	<rect x="587.4" y="366.5" pointer-events="all" class="st0" width="30" height="26"/>
-	<path pointer-events="all" class="st1" d="M617.4,366.5v26"/>
+	<rect x="549.4" y="335.6" pointer-events="all" class="st7" width="30" height="26"/>
+	<path pointer-events="all" class="st1" d="M579.4,335.6v26"/>
 	<g transform="translate(-0.5 -0.5)">
-		<text transform="matrix(1 0 0 1 593.3938 385.5)" class="st9 st8">FK</text>
+		<text transform="matrix(1 0 0 1 555.3938 354.61)" class="st10 st9">FK</text>
 	</g>
-	<rect x="587.4" y="392.5" pointer-events="all" class="st0" width="230" height="10"/>
-	<rect x="587.4" y="392.5" pointer-events="all" class="st0" width="30" height="10"/>
-	<path pointer-events="all" class="st1" d="M617.4,392.5v10"/>
+	<rect x="549.4" y="361.6" pointer-events="all" class="st7" width="230" height="10"/>
+	<rect x="549.4" y="361.6" pointer-events="all" class="st7" width="30" height="10"/>
+	<path pointer-events="all" class="st1" d="M579.4,361.6v10"/>
 </g>
-<path pointer-events="stroke" class="st4" d="M337.4,89.5h-30c-6.7,0-10,3.3-10,10v9c0,6-3.3,9-10,9h-30"/>
-<path pointer-events="stroke" class="st4" d="M527.4,89.5h40c6.7,0,10,3.3,10,10v76c0,6.7,3.3,10,10,10h40"/>
-<path pointer-events="stroke" class="st4" d="M287.4,237.5h11.2c5.9,0,8.9-3.3,8.9-10v-9c0-6,3-9,8.9-9h11"/>
-<path pointer-events="stroke" class="st4" d="M67.4,209.5h-5c-3.3,0-5-3.1-5-9.4v-94.2c0-6.3,1.7-9.4,5-9.4h5"/>
-<path pointer-events="stroke" class="st4" d="M201.4,659.5H66.2c-15,0-23.3-16-23.3-48V131c0-32,3.9-48,11.6-48H66"/>
-<path pointer-events="stroke" class="st4" d="M66.2,440.5h-7.8c-5.2,0-7.8-9.7-7.8-29.2V119.2c0-19.5,2.6-29.2,7.8-29.2h7.8"/>
-<path class="st0" d="z"/>
-<path pointer-events="stroke" class="st4" d="M537.4,208.5h20c3.3,0,5,5.1,5,15.2v115.6c0,10.1,1.7,15.2,5,15.2h20"/>
-<path pointer-events="stroke" class="st4" d="M816.6,381.5h11.5c7.7,0,11.5-8.4,11.5-25.1v-251c0-16.7-3.8-25.1-11.5-25.1h-11.5"/>
-<path pointer-events="stroke" class="st4" d="M298.5,464.5h11.2c5.9,0,8.9-3.3,8.9-10v-9c0-6,3-9,8.9-9h11"/>
-<path pointer-events="stroke" class="st4" d="M421.4,636.5h128.5c7.7,0,11.5-5.6,11.5-16.8V452.2c0-11.2-3.8-16.8-11.5-16.8h-11.5"
+<path pointer-events="stroke" class="st4" d="M299.4,58.6h-30c-6.7,0-10,3.3-10,10v9c0,6-3.3,9-10,9h-30"/>
+<path pointer-events="stroke" class="st4" d="M489.4,58.6h40c6.7,0,10,3.3,10,10v76c0,6.7,3.3,10,10,10h40"/>
+<path pointer-events="stroke" class="st4" d="M249.4,206.6h11.2c5.9,0,8.9-3.3,8.9-10v-9c0-6,3-9,8.9-9h11"/>
+<path pointer-events="stroke" class="st4" d="M29.4,178.6h-5c-3.3,0-5-3.1-5-9.4V75c0-6.3,1.7-9.4,5-9.4h5"/>
+<path pointer-events="stroke" class="st4" d="M163.4,628.6H28.2c-15,0-23.3-16-23.3-48V100.1c0-32,3.9-48,11.6-48H28"/>
+<path pointer-events="stroke" class="st4" d="M28.2,409.6h-7.8c-5.2,0-7.8-9.7-7.8-29.2V88.3c0-19.5,2.6-29.2,7.8-29.2h7.8"/>
+<path class="st11" d="M-38-30.9"/>
+<path pointer-events="stroke" class="st4" d="M499.4,177.6h20c3.3,0,5,5.1,5,15.2v115.6c0,10.1,1.7,15.2,5,15.2h20"/>
+<path pointer-events="stroke" class="st4" d="M778.6,350.6h11.5c7.7,0,11.5-8.4,11.5-25.1v-251c0-16.7-3.8-25.1-11.5-25.1h-11.5"/>
+<path pointer-events="stroke" class="st4" d="M260.5,433.6h11.2c5.9,0,8.9-3.3,8.9-10v-9c0-6,3-9,8.9-9h11"/>
+<path pointer-events="stroke" class="st4" d="M383.4,605.6h128.5c7.7,0,11.5-5.6,11.5-16.8V421.3c0-11.2-3.8-16.8-11.5-16.8h-11.5"
 	/>
-<path pointer-events="stroke" class="st4" d="M421.4,579.5h72.4c12.1,0,18.1,3.8,18.1,11.4v86.3c0,7.6,6,11.4,18.1,11.4h72.4"/>
-<path pointer-events="stroke" class="st4" d="M792.4,521.5h29.9c3.8,0,5.8-6.9,5.8-20.7V294.2c0-13.8-1.9-20.7-5.8-20.7h-5.8"/>
-<path pointer-events="stroke" class="st4" d="M602.7,608.8h-7.8c-5.2,0-7.8-3.3-7.8-9.8v-98.1c0-6.5,2.6-9.8,7.8-9.8h7.8"/>
-<path pointer-events="stroke" class="st4" d="M201.4,576.5H59.5c-5.2,0-7.8-2.5-7.8-7.4v-74.4c0-5,2.6-7.4,7.8-7.4h7.8"/>
+<path pointer-events="stroke" class="st4" d="M383.4,548.6h72.4c12.1,0,18.1,3.8,18.1,11.4v86.3c0,7.6,6,11.4,18.1,11.4h72.4"/>
+<path pointer-events="stroke" class="st4" d="M754.4,490.6h29.9c3.8,0,5.8-6.9,5.8-20.7V263.3c0-13.8-1.9-20.7-5.8-20.7h-5.8"/>
+<path pointer-events="stroke" class="st4" d="M564.7,577.9h-7.8c-5.2,0-7.8-3.3-7.8-9.8V470c0-6.5,2.6-9.8,7.8-9.8h7.8"/>
+<path pointer-events="stroke" class="st4" d="M163.4,545.6H21.5c-5.2,0-7.8-2.5-7.8-7.4v-74.4c0-5,2.6-7.4,7.8-7.4h7.8"/>
 </svg>
