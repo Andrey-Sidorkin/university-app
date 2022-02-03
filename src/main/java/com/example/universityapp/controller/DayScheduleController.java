@@ -17,6 +17,7 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Pattern;
 import javax.validation.constraints.Positive;
 import lombok.AllArgsConstructor;
+import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -30,6 +31,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @AllArgsConstructor
 @RequestMapping("/schedules")
+@Validated
 public class DayScheduleController {
     private static final String DAY_PATTERN = "MONDAY|TUESDAY|THURSDAY|WEDNESDAY|FRIDAY|SATURDAY";
     private static final String SEMESTER_PATTERN = "FIRST|SECOND";

@@ -9,6 +9,7 @@ import javax.validation.Valid;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Pattern;
 import lombok.AllArgsConstructor;
+import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -20,6 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @AllArgsConstructor
 @RequestMapping("/professors")
+@Validated
 public class ProfessorController {
     private static final String CARD_PATTERN = "^PRFSR-\\d{3}-\\d{3}-\\d{4}$";
     private final ProfessorService professorService;

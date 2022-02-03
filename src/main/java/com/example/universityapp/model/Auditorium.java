@@ -19,7 +19,7 @@ public class Auditorium {
     @ManyToOne
     private Faculty faculty;
     private String index;
-    private short capacity;
+    private Short capacity;
     @Column(name = "has_screen")
     private boolean hasScreen;
 

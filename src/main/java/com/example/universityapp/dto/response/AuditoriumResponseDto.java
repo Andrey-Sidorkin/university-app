@@ -7,6 +7,6 @@ public class AuditoriumResponseDto {
     private Long id;
     private String facultyName;
     private String index;
-    private short capacity;
+    private Short capacity;
     private boolean hasScreen;
 }

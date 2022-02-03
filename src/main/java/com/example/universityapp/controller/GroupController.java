@@ -10,6 +10,7 @@ import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Pattern;
 import javax.validation.constraints.Positive;
 import lombok.AllArgsConstructor;
+import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -23,6 +24,7 @@ import org.springframework.web.bind.annotation.RestController;
 @AllArgsConstructor
 @RestController
 @RequestMapping("/groups")
+@Validated
 public class GroupController {
     public static final String GROUP_PATTERN = "FIRST|SECOND|THIRD|FOURTH";
     private final GroupService groupService;

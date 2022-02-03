@@ -16,7 +16,7 @@ public class AuditoriumRequestDto {
     private String index;
     @NotNull
     @Positive
-    private short capacity;
+    private Short capacity;
     @NotNull
     private boolean hasScreen;
 }
