@@ -1,6 +1,6 @@
 # University app
 
-This app allows to maintain an university structure including faculties, departments, professors, students etc.
+This app allows to maintain the university structure including faculties, departments, professors, students etc.
 It utilizes such frameworks as Hibernate and Spring and is based on SOLID and REST architectural principles.
 
 We can describe the university structure as shown below:<br> 
