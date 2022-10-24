@@ -8,8 +8,16 @@ import javax.persistence.JoinTable;
 import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
 
 @Entity
+@Setter
+@Getter
+@ToString
+@NoArgsConstructor
 @Table(name = "departments")
 public class Department {
     @Id
@@ -22,40 +30,4 @@ public class Department {
             joinColumns = @JoinColumn(name = "department_name"),
             inverseJoinColumns = @JoinColumn(name = "professor_card"))
     private List<Professor> professors;
-
-    public Department() {
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public Faculty getFaculty() {
-        return faculty;
-    }
-
-    public void setFaculty(Faculty faculty) {
-        this.faculty = faculty;
-    }
-
-    public List<Professor> getProfessors() {
-        return professors;
-    }
-
-    public void setProfessors(List<Professor> professors) {
-        this.professors = professors;
-    }
-
-    @Override
-    public String toString() {
-        return "Department{"
-                + "name='" + name + '\''
-                + ", faculty=" + faculty
-                + ", professors=" + professors
-                + '}';
-    }
 }

@@ -8,8 +8,16 @@ import javax.persistence.Enumerated;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
 
 @Entity
+@Setter
+@Getter
+@ToString
+@NoArgsConstructor
 @Table(name = "professors")
 public class Professor {
     @Id
@@ -31,77 +39,5 @@ public class Professor {
         ASSISTANT_PROFESSOR,
         ASSOCIATE_PROFESSOR,
         PROFESSOR
-    }
-
-    public Professor() {
-    }
-
-    public String getProfessorCard() {
-        return professorCard;
-    }
-
-    public void setProfessorCard(String professorCard) {
-        this.professorCard = professorCard;
-    }
-
-    public Rank getRank() {
-        return rank;
-    }
-
-    public void setRank(Rank rank) {
-        this.rank = rank;
-    }
-
-    public Set<Study> getStudies() {
-        return studies;
-    }
-
-    public void setStudies(Set<Study> studies) {
-        this.studies = studies;
-    }
-
-    public boolean isDismissed() {
-        return isDismissed;
-    }
-
-    public void setDismissed(boolean dismissed) {
-        isDismissed = dismissed;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getSurname() {
-        return surname;
-    }
-
-    public void setSurname(String surname) {
-        this.surname = surname;
-    }
-
-    public String getPhoneNumber() {
-        return phoneNumber;
-    }
-
-    public void setPhoneNumber(String phoneNumber) {
-        this.phoneNumber = phoneNumber;
-    }
-
-    @Override
-    public String toString() {
-        return "Professor{"
-                + "professorCard='" + professorCard + '\''
-                + ", name='" + name + '\''
-                + ", surname='" + surname + '\''
-                + ", phoneNumber='" + phoneNumber + '\''
-                + ", rank=" + rank
-                + ", studies=" + studies
-                + ", isDismissed=" + isDismissed
-                + '}';
     }
 }

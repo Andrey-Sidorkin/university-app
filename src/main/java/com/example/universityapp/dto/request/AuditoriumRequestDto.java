@@ -5,6 +5,7 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Positive;
 import javax.validation.constraints.Size;
 import lombok.Data;
+import lombok.experimental.Accessors;
 
 @Data
 public class AuditoriumRequestDto {
@@ -18,5 +19,6 @@ public class AuditoriumRequestDto {
     @Positive
     private Short capacity;
     @NotNull
+    @Accessors(fluent = true)
     private boolean hasScreen;
 }

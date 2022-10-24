@@ -21,7 +21,7 @@ public class AuditoriumMapper implements Mapper<Auditorium,
         dto.setFacultyName(auditorium.getFaculty().getName());
         dto.setIndex(auditorium.getIndex());
         dto.setCapacity(auditorium.getCapacity());
-        dto.setHasScreen(auditorium.getHasScreen());
+        dto.hasScreen(auditorium.hasScreen());
         return dto;
     }
 
@@ -32,7 +32,7 @@ public class AuditoriumMapper implements Mapper<Auditorium,
         auditorium.setFaculty(faculty);
         auditorium.setIndex(dto.getIndex());
         auditorium.setCapacity(dto.getCapacity());
-        auditorium.setHasScreen(dto.isHasScreen());
+        auditorium.hasScreen(dto.hasScreen());
         return auditorium;
     }
 }

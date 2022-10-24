@@ -8,8 +8,17 @@ import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 import javax.persistence.UniqueConstraint;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
+import lombok.experimental.Accessors;
 
 @Entity
+@Setter
+@Getter
+@ToString
+@NoArgsConstructor
 @Table(name = "auditoriums",
         uniqueConstraints = @UniqueConstraint(columnNames = {"faculty_name", "index"}))
 public class Auditorium {
@@ -21,58 +30,6 @@ public class Auditorium {
     private String index;
     private Short capacity;
     @Column(name = "has_screen")
+    @Accessors(fluent = true)
     private boolean hasScreen;
-
-    public Auditorium() {
-    }
-
-    public Long getId() {
-        return id;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
-    }
-
-    public Faculty getFaculty() {
-        return faculty;
-    }
-
-    public String getIndex() {
-        return index;
-    }
-
-    public void setIndex(String index) {
-        this.index = index;
-    }
-
-    public void setFaculty(Faculty faculty) {
-        this.faculty = faculty;
-    }
-
-    public short getCapacity() {
-        return capacity;
-    }
-
-    public void setCapacity(short capacity) {
-        this.capacity = capacity;
-    }
-
-    public boolean getHasScreen() {
-        return hasScreen;
-    }
-
-    public void setHasScreen(boolean hasScreen) {
-        this.hasScreen = hasScreen;
-    }
-
-    @Override
-    public String toString() {
-        return "Auditorium{"
-                + "id=" + id
-                + ", faculty=" + faculty
-                + ", capacity=" + capacity
-                + ", hasScreen=" + hasScreen
-                + '}';
-    }
 }

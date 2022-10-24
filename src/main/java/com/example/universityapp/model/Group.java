@@ -12,8 +12,16 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
 
 @Entity
+@Setter
+@Getter
+@ToString
+@NoArgsConstructor
 @Table(name = "groups")
 public class Group {
     @Id
@@ -38,67 +46,5 @@ public class Group {
         SECOND,
         THIRD,
         FOURTH
-    }
-
-    public Group() {
-    }
-
-    public Long getId() {
-        return id;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
-    }
-
-    public Department getDepartment() {
-        return department;
-    }
-
-    public void setDepartment(Department department) {
-        this.department = department;
-    }
-
-    public GroupNumber getGroupNumber() {
-        return groupNumber;
-    }
-
-    public void setGroupNumber(GroupNumber groupNumber) {
-        this.groupNumber = groupNumber;
-    }
-
-    public Set<Student> getStudents() {
-        return students;
-    }
-
-    public void setStudents(Set<Student> students) {
-        this.students = students;
-    }
-
-    public Set<DaySchedule> getWeekSchedule() {
-        return weekSchedule;
-    }
-
-    public void setWeekSchedule(Set<DaySchedule> weekSchedule) {
-        this.weekSchedule = weekSchedule;
-    }
-
-    public AcademicYear getAcademicYear() {
-        return academicYear;
-    }
-
-    public void setAcademicYear(AcademicYear academicYear) {
-        this.academicYear = academicYear;
-    }
-
-    @Override
-    public String toString() {
-        return "Group{"
-                + "id=" + id
-                + ", department=" + department
-                + ", groupNumber=" + groupNumber
-                + ", students=" + students
-                + ", weekSchedule=" + weekSchedule
-                + '}';
     }
 }
